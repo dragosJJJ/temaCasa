@@ -1,2 +1,3 @@
 ﻿  temaCasaa.cpp
-  temaCasaa.vcxproj -> C:\Users\drago\Desktop\STL1111\IO\temaCasaa\x64\Debug\temaCasaa.exe
+C:\Users\drago\Desktop\STL1111\IO\temaCasaa\temaCasa\temaCasaa.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  temaCasaa.vcxproj -> C:\Users\drago\Desktop\STL1111\IO\temaCasaa\temaCasa\x64\Debug\temaCasaa.exe
